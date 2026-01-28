@@ -143,7 +143,6 @@ huggingface_cache/
 data/
 *.csv
 *.json
-*.txt
 datasets/
 
 # Output files
